@@ -1,0 +1,321 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ALVARO\\NETCORE-ANGULAR\\NEGOCIODLL\\NEGOCIODLL.csproj": {}
+  },
+  "projects": {
+    "D:\\ALVARO\\NETCORE-ANGULAR\\DATOSDLL\\DATOSDLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\DATOSDLL\\DATOSDLL.csproj",
+        "projectName": "DATOSDLL",
+        "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\DATOSDLL\\DATOSDLL.csproj",
+        "packagesPath": "C:\\Users\\Alvarojose\\.nuget\\packages\\",
+        "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\DATOSDLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alvarojose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj": {
+                "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj"
+              },
+              "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\MENSAJESDLL\\MENSAJESDLL.csproj": {
+                "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\MENSAJESDLL\\MENSAJESDLL.csproj"
+              },
+              "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj": {
+                "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj",
+        "projectName": "ENTIDADESDLL",
+        "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj",
+        "packagesPath": "C:\\Users\\Alvarojose\\.nuget\\packages\\",
+        "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alvarojose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\MENSAJESDLL\\MENSAJESDLL.csproj": {
+                "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\MENSAJESDLL\\MENSAJESDLL.csproj"
+              },
+              "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj": {
+                "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\MENSAJESDLL\\MENSAJESDLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\MENSAJESDLL\\MENSAJESDLL.csproj",
+        "projectName": "MENSAJESDLL",
+        "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\MENSAJESDLL\\MENSAJESDLL.csproj",
+        "packagesPath": "C:\\Users\\Alvarojose\\.nuget\\packages\\",
+        "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\MENSAJESDLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alvarojose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj",
+        "projectName": "MENSAJESDLL",
+        "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj",
+        "packagesPath": "C:\\Users\\Alvarojose\\.nuget\\packages\\",
+        "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alvarojose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ALVARO\\NETCORE-ANGULAR\\NEGOCIODLL\\NEGOCIODLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\NEGOCIODLL\\NEGOCIODLL.csproj",
+        "projectName": "NEGOCIODLL",
+        "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\NEGOCIODLL\\NEGOCIODLL.csproj",
+        "packagesPath": "C:\\Users\\Alvarojose\\.nuget\\packages\\",
+        "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\NEGOCIODLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alvarojose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\ALVARO\\NETCORE-ANGULAR\\DATOSDLL\\DATOSDLL.csproj": {
+                "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\DATOSDLL\\DATOSDLL.csproj"
+              },
+              "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj": {
+                "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
