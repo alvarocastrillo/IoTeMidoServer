@@ -65,8 +65,8 @@ namespace IoTeMidoServer
 
 
             services.AddAuthorization(cfg =>
-                cfg.AddPolicy("CanAccessProducts", p =>
-                    p.RequireClaim("CanAccessProducts", "true")));
+                cfg.AddPolicy("Redes-Insertar", p =>
+                    p.RequireClaim("Redes-Insertar", "16")));
             services.AddAuthorization(cfg =>
                 cfg.AddPolicy("CanAccessCategories", p =>
                 p.RequireClaim("CanAccessCategories", "true")));

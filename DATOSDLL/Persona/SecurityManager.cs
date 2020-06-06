@@ -168,7 +168,7 @@ namespace DATOSDLL.Persona
              */
             foreach (Permisos item in authUser.Permisos)
             {
-                jwtClaims.Add(new Claim(item.Id.ToString(), item.Formulario + "," + item.Proceso));
+                jwtClaims.Add(new Claim(item.Formulario + "-" + item.Proceso,item.Id.ToString()));
             }
 
             var token = new JwtSecurityToken(
