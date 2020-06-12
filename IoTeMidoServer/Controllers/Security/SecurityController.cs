@@ -104,6 +104,20 @@ namespace IoTeMidoServer.Controllers
 
 
         }
-      
+/*
+
+        [HttpPost]
+        [Produces("application/json")]
+        [Route("api/Persona/ValidarPassword")]
+        public PersonaE ValidarPassword([FromBody] PersonaE item)
+        {
+            return PersonaN.ValidarUsuario(new Object[] {
+                new SqlParameter("@Accion","ValidarPassword"),
+                new SqlParameter("@Usuario",item.Usuario),
+                new SqlParameter("@Clave",PersonaN.CreateMD5(item.Clave))
+            });
+
+        }
+        */
     }
 }

@@ -112,7 +112,8 @@ D:\ALVARO\NETCORE-ANGULAR\IoTeMidoServer\bin\Debug\netcoreapp3.1\MENSAJESDLL\obj
 D:\ALVARO\NETCORE-ANGULAR\IoTeMidoServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
 D:\ALVARO\NETCORE-ANGULAR\IoTeMidoServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 D:\ALVARO\NETCORE-ANGULAR\IoTeMidoServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
-D:\ALVARO\NETCORE-ANGULAR\IoTeMidoServer\obj\Debug\netcoreapp3.1\IoTeMidoServer.MvcApplicationPartsAssemblyInfo.cache
 D:\ALVARO\NETCORE-ANGULAR\IoTeMidoServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\ALVARO\NETCORE-ANGULAR\IoTeMidoServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 D:\ALVARO\NETCORE-ANGULAR\IoTeMidoServer\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ALVARO\NETCORE-ANGULAR\IoTeMidoServer\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+D:\ALVARO\NETCORE-ANGULAR\IoTeMidoServer\obj\Debug\netcoreapp3.1\IoTeMidoServer.MvcApplicationPartsAssemblyInfo.cache

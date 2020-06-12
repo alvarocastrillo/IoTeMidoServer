@@ -14,5 +14,23 @@ namespace NEGOCIODLL.Empresa
 
             return empresa.GetEmpresaLista(parametros);
         }
+
+        public static EmpresaE GetEmpresa(Object[] parametros)
+        {
+            EmpresaD empresa = new EmpresaD();
+
+            return empresa.GetEmpresa(parametros);
+
+        }
+
+        public static EmpresaE SetEmpresa(Object[] parametros)
+        {
+            EmpresaD empresa = new EmpresaD();
+
+            return empresa.SetEmpresa(parametros);
+
+        }
+
+
     }
 }
