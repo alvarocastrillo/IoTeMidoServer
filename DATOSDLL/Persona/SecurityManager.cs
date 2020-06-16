@@ -89,20 +89,16 @@ namespace DATOSDLL.Persona
 
         protected PersonaE BuildUserAuthObject(PersonaE authUser)
         {
-            PersonaE ret = new PersonaE();
 
-            ret.Usuario = authUser.Usuario;
-            ret.IsAuthenticated = true;
+            authUser.IsAuthenticated = true;
+            authUser.Permisos = Permiso(authUser);
 
-            ret.Permisos = Permiso(authUser);
-            ret.Mensaje = authUser.Mensaje;
-            ret.Clave = authUser.Clave;
 
-            ret.BearerToken = BuildJwtToken(ret);
+            authUser.BearerToken = BuildJwtToken(authUser);
 
 
 
-            return ret;
+            return authUser;
         }
 
         public List<Permisos> Permiso(PersonaE authUser)

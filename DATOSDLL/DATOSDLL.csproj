@@ -12,8 +12,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ENTIDADESDLL\ENTIDADESDLL.csproj" />
-    <ProjectReference Include="..\IoTeMidoServer\MENSAJESDLL\MENSAJESDLL.csproj" />
+  <!--  <ProjectReference Include="..\IoTeMidoServer\MENSAJESDLL\MENSAJESDLL.csproj" /> -->
     <ProjectReference Include="..\MENSAJESDLL\MENSAJESDLL.csproj" />
+  <!--<ProjectReference Include="..\MENSAJESDLL\MENSAJESDLL.csproj" /> --> 
   </ItemGroup>
 
 </Project>

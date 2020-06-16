@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj": {}
+    "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\MENSAJESDLL\\MENSAJESDLL.csproj": {}
   },
   "projects": {
-    "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj": {
+    "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\MENSAJESDLL\\MENSAJESDLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj",
+        "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\MENSAJESDLL\\MENSAJESDLL.csproj",
         "projectName": "MENSAJESDLL",
-        "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj",
+        "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\MENSAJESDLL\\MENSAJESDLL.csproj",
         "packagesPath": "C:\\Users\\Alvarojose\\.nuget\\packages\\",
-        "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\obj\\",
+        "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\MENSAJESDLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

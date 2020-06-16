@@ -6947,11 +6947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\IoTeMidoServer.csproj",
+      "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\IoTeMidoServer\\IoTeMidoServer.csproj",
       "projectName": "IoTeMidoServer",
-      "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\IoTeMidoServer.csproj",
+      "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\IoTeMidoServer\\IoTeMidoServer.csproj",
       "packagesPath": "C:\\Users\\Alvarojose\\.nuget\\packages\\",
-      "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\obj\\",
+      "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\IoTeMidoServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6970,17 +6970,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj": {
-              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj"
+            "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\ENTIDADESDLL\\ENTIDADESDLL.csproj": {
+              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\ENTIDADESDLL\\ENTIDADESDLL.csproj"
             },
-            "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\MENSAJESDLL\\MENSAJESDLL.csproj": {
-              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\IoTeMidoServer\\MENSAJESDLL\\MENSAJESDLL.csproj"
+            "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\MENSAJESDLL\\MENSAJESDLL.csproj": {
+              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\MENSAJESDLL\\MENSAJESDLL.csproj"
             },
-            "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj": {
-              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\MENSAJESDLL\\MENSAJESDLL.csproj"
-            },
-            "D:\\ALVARO\\NETCORE-ANGULAR\\NEGOCIODLL\\NEGOCIODLL.csproj": {
-              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\NEGOCIODLL\\NEGOCIODLL.csproj"
+            "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\NEGOCIODLL\\NEGOCIODLL.csproj": {
+              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\NEGOCIODLL\\NEGOCIODLL.csproj"
             }
           }
         }

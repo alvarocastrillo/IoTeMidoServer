@@ -784,11 +784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\NEGOCIODLL\\NEGOCIODLL.csproj",
+      "projectUniqueName": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\NEGOCIODLL\\NEGOCIODLL.csproj",
       "projectName": "NEGOCIODLL",
-      "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\NEGOCIODLL\\NEGOCIODLL.csproj",
+      "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\NEGOCIODLL\\NEGOCIODLL.csproj",
       "packagesPath": "C:\\Users\\Alvarojose\\.nuget\\packages\\",
-      "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\NEGOCIODLL\\obj\\",
+      "outputPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\NEGOCIODLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -807,11 +807,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\ALVARO\\NETCORE-ANGULAR\\DATOSDLL\\DATOSDLL.csproj": {
-              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\DATOSDLL\\DATOSDLL.csproj"
+            "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\DATOSDLL\\DATOSDLL.csproj": {
+              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\DATOSDLL\\DATOSDLL.csproj"
             },
-            "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj": {
-              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\ENTIDADESDLL\\ENTIDADESDLL.csproj"
+            "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\ENTIDADESDLL\\ENTIDADESDLL.csproj": {
+              "projectPath": "D:\\ALVARO\\NETCORE-ANGULAR\\SERVIDOR\\ENTIDADESDLL\\ENTIDADESDLL.csproj"
             }
           }
         }

@@ -13,7 +13,7 @@ namespace IoTeMidoServer.Controllers.Red
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    // [Authorize]
     public class RedController : ControllerBase
     {
 

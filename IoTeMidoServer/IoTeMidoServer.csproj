@@ -16,7 +16,7 @@
     <ProjectReference Include="..\ENTIDADESDLL\ENTIDADESDLL.csproj" />
     <ProjectReference Include="..\MENSAJESDLL\MENSAJESDLL.csproj" />
     <ProjectReference Include="..\NEGOCIODLL\NEGOCIODLL.csproj" />
-    <ProjectReference Include="MENSAJESDLL\MENSAJESDLL.csproj" />
+
   </ItemGroup>
 
 
